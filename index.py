@@ -4,6 +4,6 @@
 # Versión: 1.0.0
 
 def main ():
-print ( "Hola Mundo!" )
+print ( "Hola Mundo by Gabriel Morales!" )
 if __name__ == "__main__" :
 main()
